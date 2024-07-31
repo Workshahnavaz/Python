@@ -52,9 +52,10 @@ x = "my Name is hello "
 b = " Shanu Virani "
 # print(b.upper())          # Capital letter print
 # print(b.lower())          # Small letter print
-# print(b.strip())          # Starting letter capital
+# print(b.strip())          # Clear space at the starting and end letter 
 # print(b.find("S"))        # Show letter position
 # print(b.replace("h","a")) # replace the position 
+# print(b.capitalize())     # capitalize first Letter
 
 # F String :
 ' The f string can be use to make value apper in the program by variable input in string '
